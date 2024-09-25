@@ -28,7 +28,7 @@ const Home = () => {
 	return (
 		<div className="text-center">
 
-			<Navbar navBrand ="Hola Mundo"/>
+			<Navbar navBrand ="Start Bootstrap"/>
 			<div className="container-lg text-center">
 				<div className="row">
 					<div className="col">
